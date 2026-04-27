@@ -109,6 +109,14 @@ rmarkdown::render("coursework_shalini.Rmd")
 
 ---
 
+## 🔮 Future Extensions
+
+- Apply pipeline to **omics datasets (RNA-seq, GWAS)**  
+- Integrate **machine learning models**  
+- Scale workflows for **large datasets / HPC environments**  
+
+---
+
 ## 👩‍💻 Author
 
 Shalini Majumder  
@@ -119,4 +127,4 @@ University of Birmingham
 
 ## 📜 License
 
-Academic use with attribution.
+This project is for academic purposes. If you wish to reuse or adapt any part of this work, please provide appropriate attribution.
